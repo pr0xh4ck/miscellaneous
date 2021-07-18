@@ -1,4 +1,4 @@
-                                                         src://https://sguru.org/ghdb-download-list-4500-google-dorks-free/
+                                                         src="https://sguru.org/ghdb-download-list-4500-google-dorks-free/"
 inurl:/general.php?*id=*
 inurl:/careers-detail.asp?id=
 inurl:/WhatNew.asp?page=&id=
