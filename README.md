@@ -1,2 +1,2 @@
 # chill-bro
-Open Source Hacking Resources for Community
+Open Source Hacking Resources for Hacker
