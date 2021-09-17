@@ -1,7 +1,7 @@
 ```pr0xh4ck © 2021```
 
 
-```Miscellaneous is for Dorks, Payloads, Guidelines, Various Search Engine for Hackig, etc```
+```Dorks, Payloads, Guidelines, Various Search Engine for Hackig, etc```
 
 
 - [Search Engine]()
