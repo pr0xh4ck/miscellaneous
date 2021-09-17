@@ -1,6 +1,7 @@
 ```pr0xh4ck © 2021```
 
-```Miscellaneous Hacking Elements like Dorks, Payloads, Guidelines, Various Search Engine for Hackig, etc```
+
+```Miscellaneous is for Dorks, Payloads, Guidelines, Various Search Engine for Hackig, etc```
 
 
 - [Search Engine]()
