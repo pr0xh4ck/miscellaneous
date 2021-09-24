@@ -28,3 +28,89 @@
   - [prnt.sc/hexfky](https://prnt.sc/hexfky) 
 
 
+
+
+
+
+
+
+
+
+---
+
+
+
+
+## Google Dork
+
+- Extension
+```text
+site: *.example.com ext:php OR ext:js OR ext:txt OR ext:pdf
+```
+
+- Open Redirect
+```text
+site: *.example.com inurl:& AND inurl:url
+```
+
+- SQL Injection
+```text
+site: *.example.com intext:"You have an error in your SQL syntax"
+```
+
+- File Type
+```text
+site: *.example.com filetype:pdf
+```
+
+- GraphQL 
+```text
+site: *.example.com inurl:/graphql/
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
