@@ -59,6 +59,16 @@
 
 **site** – Limits the search to a specific site only. – For example site:example.com
 
+**cache** -  this dork will show you the cached version of any website
+
+**'*'** - wildcard used to search pages that contain “anything” before your word.
+
+**+** - used to concatenate words, useful to detect pages that use more than one specific key
+
+**-** - minus operator is used to avoiding showing results that contain certain words
+
+**|** - this is a logical operator,
+
 If a hacker wishes to search by a field other than the URL, the following can be effectively substituted:
 
 - intitle:
