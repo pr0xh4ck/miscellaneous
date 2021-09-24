@@ -1,7 +1,7 @@
 ```pr0xh4ck © 2021```
 
 
-```Dorks, Payloads, Guidelines, Various Search Engine for Hackig, etc```
+```Dorks, Payloads, Guidelines, Various Search Engine for Hacking, etc```
 
 
 - [Search Engine]()
