@@ -38,9 +38,57 @@
 
 ---
 
+## Understanding Google Dorks Operators
+
+
+**intitle** – Specifying intitle, will tell google to show only those pages that have the term in their html title. For example intitle:”login page” will show those pages which have the term “login page” in the title text.
+
+**allintitle** – Similar to intitle, but looks for all the specified terms in the title.
+
+**inurl** – Searches for the specified term in the url. – For example inurl:”login.php” or inurl:login.jsp intitle:login.
+
+**allinurl** – Same as inurl, but searches for all terms in the url.
+
+**filetype** – Searches for specific file types. filetype:pdf will looks for pdf files in websites. Similarly filetype:txt looks for files with extension .txt – For example “sensitive but unclassified” filetype:pdf
+
+**ext** – Similar to filetype. ext:pdf finds pdf extension files.
+
+**intext** – Searches the content of the page. Somewhat like a plain google search. For example intext:”index of /” or Host=*.* intext:enc_UserPassword=* ext:pcf
+
+**allintext** – Similar to intext, but searches for all terms to be present in the text.
+
+**site** – Limits the search to a specific site only. – For example site:example.com
+
+If a hacker wishes to search by a field other than the URL, the following can be effectively substituted:
+
+- intitle:
+- inurl:
+- intext:
+- define:
+- site:
+- phonebook:
+- maps:
+- book:
+- froogle:
+- info:
+- movie:
+- weather:
+- related:
+- link:
 
 
 
+
+
+----
+
+
+
+
+
+
+
+----
 ## Google Dork
 
 - Extension
