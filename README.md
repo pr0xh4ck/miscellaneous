@@ -134,7 +134,7 @@ site: *.example.com inurl:/graphql/
 
 ## PGP(Pretty Good Privacy)
 
-- Install tool command
+- Command for tool installation
 ```bash
 sudo apt-get install gnupg2 gpa
 ```
