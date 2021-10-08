@@ -128,15 +128,26 @@ site: *.example.com inurl:/graphql/
 
 
 
+----
 
 
 
+## PGP(Pretty Good Privacy)
 
+- Install tool command
+```bash
+sudo apt-get install gnupg2 gpa
+```
 
+- Create your key command
+```bash
+gpg --full-generate-key
+```
 
-
-
-
+- Open GUI tool
+```bash
+sudo gpa
+```
 
 
 
