@@ -29,10 +29,32 @@
 
 
 
-- [Just For Fun]()
+- [Mega Download Bypass]()
+> Tool
   - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite. 
+
+> Proxy List
   - [us-proxy](https://us-proxy.org/) - Get your free proxy  1
   - [proxyscrape](https://proxyscrape.com/free-proxy-list) - Get your free proxy 2
+  - [advanced](https://advanced.name/freeproxy) - Get your free proxy 3
+  - [premproxy](https://premproxy.com/list/) - Get your free proxy 4 
+  - [sslproxies](https://www.sslproxies.org/) - Get your free proxy 5 
+
+> Filter Proxies
+```python
+x = """
+# delete this line and paste your proxy list then run
+"""
+for y in x.split("\n"):
+  if(y[-4:] == "8080"):
+    print(y)
+```
+
+> Or Go 
+- [onecompiler](https://onecompiler.com/python/3x9n3a7sd)
+
+
+
 
 
 
