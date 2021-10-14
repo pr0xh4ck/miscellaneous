@@ -31,7 +31,8 @@
 
 - [Just For Fun]()
   - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite. 
-  - [us-proxy](https://us-proxy.org/) - Get your free proxy
+  - [us-proxy](https://us-proxy.org/) - Get your free proxy  1
+  - [proxyscrape](https://proxyscrape.com/free-proxy-list) - Get your free proxy 2
 
 
 
