@@ -21,13 +21,15 @@
   - [Eyeofjustice](https://www.eyeofjustice.com/od/)
   - [Megadb](https://megadb.tweakly.net/search)
 
-
+----
+----
 
 - [Keywords Research]()
   - [keyword](https://www.keyword.io/)
   - [prnt.sc/hexfky](https://prnt.sc/hexfky) 
 
-
+-----
+-----
 
 - [Mega Download Bypass]()
 > Tool
@@ -58,7 +60,7 @@ for y in x.split("\n"):
 
 
 
-
+----
 ---
 
 ## Understanding Google Dorks Operators
