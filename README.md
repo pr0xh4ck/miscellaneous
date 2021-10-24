@@ -175,9 +175,9 @@ sudo gpa
 ```
 
 
+### Ports list
 
-
-
+- [ports-list](https://github.com/maraisr/ports-list) - Offical list of UDP/TCP ports to descriptions
 
 
 
