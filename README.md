@@ -5,7 +5,20 @@
 
 # Agenda 
 - [Search Engine](#search-engine)
+- [Keywords Research](#keyword-research)
+- [Mega Download Bypass](#mega-download-bypass)
+- [Google Dorks](#google-dork)
 
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------
 
 #### search-engine
   - [Google hacking database](https://www.exploit-db.com/google-hacking-database)
@@ -29,7 +42,7 @@
 ----
 
 
-- [Keywords Research]()
+#### keyword-research
   - [keyword](https://www.keyword.io/)
   - [prnt.sc/hexfky](https://prnt.sc/hexfky) 
 
@@ -38,7 +51,7 @@
 -----
 
 
-- [Mega Download Bypass]()
+#### mega-download-bypass
 > Tool
   - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite. 
 
@@ -70,7 +83,8 @@ for y in x.split("\n"):
 ----
 ---
 
-## Understanding Google Dorks Operators
+
+#### google-dork
 
 
 **intitle** – Specifying intitle, will tell google to show only those pages that have the term in their html title. For example intitle:”login page” will show those pages which have the term “login page” in the title text.
