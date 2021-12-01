@@ -8,6 +8,7 @@
 - [Keywords Research](#keyword-research)
 - [Mega Download Bypass](#mega-download-bypass)
 - [Google Dorks](#google-dork)
+- [Ports list](#port-list)
 
 
 
@@ -196,7 +197,7 @@ sudo gpa
 ```
 
 
-### Ports list
+### port-list
 
 - [ports-list](https://github.com/maraisr/ports-list) - Offical list of UDP/TCP ports to descriptions
 
