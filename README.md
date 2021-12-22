@@ -25,6 +25,15 @@
 ---------------------------------------------------------------------------------------------------------------
 
 #### search-engine
+- [google](https://www.google.com/)
+- [bing](https://www.bing.com)
+- [yahoo](https://www.yahoo.com/)
+- [duckduckgo](https://duckduckgo.com/)
+- [yandex](https://yandex.com/)
+- [baidu](https://www.baidu.com/)
+- [ask](https://www.ask.com/)
+- [excite](https://www.excite.com/)
+
   - [Google hacking database](https://www.exploit-db.com/google-hacking-database)
   - [Searchengine](https://searchengine.party/)
   - [Programable search](https://cse.google.com/cse?cx=957ae734f66a7a3e0#gsc.tab=0)
