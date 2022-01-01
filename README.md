@@ -1,4 +1,4 @@
-```pr0xh4ck © 2021```
+```pr0xh4ck © 2022```
 
 
 ```Dorks, Payloads, Guidelines, Various Search Engine for Hacking, etc```
