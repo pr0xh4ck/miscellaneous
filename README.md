@@ -75,6 +75,7 @@
   - [advanced](https://advanced.name/freeproxy) - Get your free proxy 3
   - [premproxy](https://premproxy.com/list/) - Get your free proxy 4 
   - [sslproxies](https://www.sslproxies.org/) - Get your free proxy 5 
+  - [proxynova](https://www.proxynova.com/) - Get your free proxy 6
 
 > Filter Proxies
 ```python
