@@ -1,7 +1,8 @@
+
+<h1 align="center">Miscellaneous</h1>
+
+
 ```pr0xh4ck © 2022```
-
-
-```Dorks, Payloads, Guidelines, Various Search Engine for Hacking, etc```
 
 ---
 
