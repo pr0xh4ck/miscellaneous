@@ -13,6 +13,7 @@
 - [Google Dorks](#google-dork)
 - [Ports list](#port-list)
 - [Open Sources](#open-sources)
+- [Never Stop Learning](#never-stop-learning)
 
 
 
@@ -231,6 +232,13 @@ sudo gpa
 
 
 
+
+### never-stop-learning
+
+- How to Convert web browser to a Notepad
+```html
+data:text/html, <html contenteditable>
+```
 
 
 
