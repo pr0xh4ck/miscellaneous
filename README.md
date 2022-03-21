@@ -239,8 +239,13 @@ sudo gpa
 ```html
 data:text/html, <html contenteditable>
 ```
-
-
+- Best Site to Download Free Software
+- [getintopc/](https://getintopc.com/)
+- [piratepc](https://piratepc.me/)
+- [free4pc](https://free4pc.org/)
+- [ask4pc](https://ask4pc.net/)
+- [up4pc](https://up4pc.com/)
+- [dr-farfar](https://www.dr-farfar.com/)
 
 
 
