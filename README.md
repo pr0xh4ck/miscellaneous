@@ -231,8 +231,8 @@ sudo gpa
 
 
 
-
-
+----------------------------------------------------
+-----------------------------------------------------
 ### never-stop-learning
 
 - How to Convert web browser to a Notepad
@@ -240,14 +240,20 @@ sudo gpa
 data:text/html, <html contenteditable>
 ```
 - Best Site to Download Free Software
-- [getintopc/](https://getintopc.com/)
+- [getintopc](https://getintopc.com/)
 - [piratepc](https://piratepc.me/)
 - [free4pc](https://free4pc.org/)
 - [ask4pc](https://ask4pc.net/)
 - [up4pc](https://up4pc.com/)
 - [dr-farfar](https://www.dr-farfar.com/)
+- [mutaz](https://www.mutaz.net/)
+- [filecr](https://filecr.com)
 
 
+
+--------------------------------------------------------
+
+---------------------------------------------------------
 
 
 
