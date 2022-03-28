@@ -14,7 +14,7 @@
 - [Ports list](#port-list)
 - [Open Sources](#open-sources)
 - [Never Stop Learning](#never-stop-learning)
-
+- [Others](#Others)
 
 
 
@@ -256,8 +256,10 @@ data:text/html, <html contenteditable>
 ---------------------------------------------------------
 
 
+### Others
 
-
+#### Mobile apps monetization
+- [start](https://www.start.io/)
 
 
 
