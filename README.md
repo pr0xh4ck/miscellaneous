@@ -72,6 +72,7 @@
   - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite. 
 
 > Proxy List
+  - [free-proxy-list](https://free-proxy-list.net/)
   - [us-proxy](https://us-proxy.org/) - Get your free proxy  1
   - [proxyscrape](https://proxyscrape.com/free-proxy-list) - Get your free proxy 2
   - [advanced](https://advanced.name/freeproxy) - Get your free proxy 3
