@@ -92,7 +92,7 @@ for y in x.split("\n"):
 ```
 
 > Or Go 
-- [onecompiler](https://onecompiler.com/python/3xxspz7r7)
+- [onecompiler](https://onecompiler.com/python/3xxtpynpn)
 
 
 
