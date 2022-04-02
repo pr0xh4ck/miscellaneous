@@ -11,6 +11,7 @@
 - [Keywords Research](#keyword-research)
 - [Mega Download Bypass](#mega-download-bypass)
 - [Google Dorks](#google-dork)
+- [Shodan Dork](#Shodan-Dork)
 - [Ports list](#port-list)
 - [Open Sources](#open-sources)
 - [Never Stop Learning](#never-stop-learning)
@@ -192,8 +193,47 @@ site: *.example.com inurl:/graphql/
 ```
 
 
+------------------
+-------------
+### Shodan-Dork
 
-----
+Citrix - Find Citrix Gateway. Example: title:“citrix gateway”[/align]
+
+Wifi Passwords - Helps to find the cleartext wifi passwords in Shodan. Example: html:“def_wirelesspassword”
+
+Surveillance Cams - With username admin and password. Example: NETSurveillance uc-httpd
+
+Fuel Pumps connected to internet - No auth required to access CLI terminal. Example: “privileged command” GET
+
+Windows RDP Password - But may contain secondary windows auth. Example: “\x03\x00\x00\x0b\x06\xd0\x00\x00\x124\x00”
+
+Mongo DB servers - It may give info about mongo db servers and dashboard. Example: “MongoDB Server Information” port:27017 -authentication
+
+FTP servers allowing anonymous access - Complete Anon access. Example: “220” “230 Login successful.” port:21
+
+Jenkins - Jenkins Unrestricted Dashboard. Example: x-jenkins 200
+
+Hacked routers - Routers which got compromised. Example: hacked-router-help-sos
+
+Open ATM - May allow for ATM Access availability. Example: NCR Port:“161”
+
+Telnet Access - NO password required for telnet access. Example: port:23 console gateway
+
+Misconfigured Wordpress Sites - The wp-config.php if accessed can give out the database credentials. Example: http.html:"* The wp-config.php creation script uses this file"
+
+Hiring - Find sites hiring. Example: “X-Recruiting:”
+
+Android Root Bridge - Find android root bridges with port 5555. Example: “Android Debug Bridge” “Device” port:5555
+
+Etherium Miners - Shows the miners running ETH. Example: “ETH - Total speed”
+
+Tesla Powerpack charging Status - Helps to find the charging status of tesla powerpack. Example: http.title:“Tesla PowerPack System” http.component:“d3” -ga3ca4f2
+
+
+-----------------------------
+--------------------------
+
+
 
 
 
