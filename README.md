@@ -1,5 +1,9 @@
-
-<h1 align="center">Miscellaneous</h1>
+<h1 align="center">
+  <br>
+    🔍 Miscellaneous
+  <br>
+  <br>
+</h1>
 
 
 ```pr0xh4ck © 2022```
