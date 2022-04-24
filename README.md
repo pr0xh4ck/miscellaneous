@@ -14,6 +14,7 @@
 - [Search Engine](#search-engine)
 - [Keywords Research](#keyword-research)
 - [Mega Download Bypass](#mega-download-bypass)
+- [Activation](#Activation)
 - [Google Dorks](#google-dork)
 - [Shodan Dork](#Shodan-Dork)
 - [Ports list](#port-list)
@@ -98,6 +99,31 @@ for y in x.split("\n"):
 
 > Or Go 
 - [onecompiler](https://onecompiler.com/python/3xxtpynpn)
+
+
+---------------------------
+-----------------------
+
+### Activation
+- [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------
+--------------
+
+
 
 
 
