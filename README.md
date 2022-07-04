@@ -136,6 +136,8 @@ for y in x.split("\n"):
 
 #### google-dork
 
+- [google-dorks](https://github.com/Proviesec/google-dorks) - Bug bounty google dork
+
 - [google-hacking-database](https://www.exploit-db.com/google-hacking-database)
 
 **intitle** – Specifying intitle, will tell google to show only those pages that have the term in their html title. For example intitle:”login page” will show those pages which have the term “login page” in the title text.
