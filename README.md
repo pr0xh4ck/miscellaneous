@@ -8,6 +8,7 @@
 
 ```pr0xh4ck © 2022```
 
+
 ---
 
 # Agenda 
@@ -171,6 +172,10 @@ for y in x.split("\n"):
 If a hacker wishes to search by a field other than the URL, the following can be effectively substituted:
 
 - intitle:
+- allinurl:
+- allintitle:
+- filetype:
+- ext:
 - inurl:
 - intext:
 - define:
