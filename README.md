@@ -189,6 +189,8 @@ If a hacker wishes to search by a field other than the URL, the following can be
 - weather:
 - related:
 - link:
+- after:
+- before:
 
 
 
