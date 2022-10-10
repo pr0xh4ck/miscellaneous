@@ -191,10 +191,20 @@ If a hacker wishes to search by a field other than the URL, the following can be
 - link:
 - after:
 - before:
-
-
-
-
+- link
+- inanchor
+- daterange
+- cache
+- info
+- phonebook
+- rphonebook
+- bphonebook
+- author
+- group
+- msgid
+- insubject
+- stocks
+- define
 
 ----
 
